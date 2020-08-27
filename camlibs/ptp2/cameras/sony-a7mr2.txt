@@ -48,7 +48,7 @@ Property 0xd221:(readwrite) (type=0x2) Enumeration [0,1,2] value: 1
 Property 0xd214:(readwrite) (type=0x6) Range [0 - 4294967295, step 1] value: 57464832
 Objects in memory(0xd215):(readwrite) (type=0x4) Range [0 - 65535, step 1] value: 0
 Property 0xd220:PTP Fehler 2002 beim Abfragen
-Autofokus(0xd2c1):(readwrite) (type=0x4) Enumeration [1,2] value: 1
+Autofocus(0xd2c1):(readwrite) (type=0x4) Enumeration [1,2] value: 1
 Aufnahme(0xd2c2):(readwrite) (type=0x4) Enumeration [1,2] value: 1
 Property 0xd2c3:(readwrite) (type=0x4) Enumeration [1,2] value: 1
 Property 0xd2c9:(readwrite) (type=0x4) Enumeration [1,2] value: 1
